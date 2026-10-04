@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# data + model outputs (keep these in Google Drive, not git)
+*.npy
+*.pt
+runs/
+
+# reference papers (copyrighted - share via Drive instead)
+*.pdf
+
+# misc / personal
+*.xlsx
+Untitled0.ipynb - Colab_files/
+.ipynb_checkpoints/
